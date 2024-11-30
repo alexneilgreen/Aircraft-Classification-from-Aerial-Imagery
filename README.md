@@ -1,4 +1,4 @@
-# Aircraft Segmentation from Aerial Imagery
+# Aircraft Classification from Aerial Imagery
 
 ## Abstract
 
@@ -14,7 +14,7 @@ This repository is structured to include submodules for the three model implemen
 
 ```mermaid
 graph TD
-    A[Aircraft-Segmentation]
+    A[Aircraft-Classification]
 
     A --> B[YOLOv5]
     A --> C[YOLOv8]
