@@ -1,0 +1,3 @@
+[submodule "ACAI-YOLOv8"]
+	path = ACAI-YOLOv8
+	url = https://github.com/alexneilgreen/ACAI-YOLOv8.git
