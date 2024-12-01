@@ -4,3 +4,6 @@
 [submodule "ACAI-YOLOv5"]
 	path = ACAI-YOLOv5
 	url = https://github.com/alexneilgreen/ACAI-YOLOv5.git
+[submodule "ACAI-ConvNet"]
+	path = ACAI-ConvNet
+	url = https://github.com/jkglaspey/ACAI-Convnet.git
