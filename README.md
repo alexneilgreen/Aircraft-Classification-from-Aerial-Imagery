@@ -85,5 +85,10 @@ graph TD
 
 ## Authors
 
-**Alexander Green** Dept. of Electrical and Computer Engineering, University of Central Florida
-**Joshua Glaspey** Dept. of Electrical and Computer Engineering, University of Central Florida
+**Alexander Green** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Master of Science in Computer Engineering (MSCpE)<br>
+Dept. of Electrical and Computer Engineering, University of Central Florida<br>
+[GitHub Home](https://github.com/alexneilgreen)
+
+**Joshua Glaspey** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Master of Science in Computer Engineering (MSCpE)<br>
+Dept. of Electrical and Computer Engineering, University of Central Florida<br>
+[GitHub Home](https://github.com/jkglaspey)
