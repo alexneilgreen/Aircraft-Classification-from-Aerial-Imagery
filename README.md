@@ -81,6 +81,20 @@ graph TD
 1. Go into sub repository
 2. View instructions in README.md
 
+### **Commands**
+
+To clone this repo, use this command. Note, the submodules will not be populated:
+
+```bash
+git clone <repository-url>
+```
+
+To install the repo with all submodule repos, run this command:
+
+```bash
+git clone --recurse-submodules <repository-url>
+```
+
 ---
 
 ## Authors
