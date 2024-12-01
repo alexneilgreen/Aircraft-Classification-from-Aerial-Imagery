@@ -86,13 +86,13 @@ graph TD
 To clone this repo, use this command. Note, the submodules will not be populated:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/alexneilgreen/Aircraft-Classification-from-Aerial-Imagery.git
 ```
 
 To install the repo with all submodule repos, run this command:
 
 ```bash
-git clone --recurse-submodules <repository-url>
+git clone --recurse-submodules https://github.com/alexneilgreen/Aircraft-Classification-from-Aerial-Imagery.git
 ```
 
 ---
